@@ -21,6 +21,10 @@ Ensure you have the following installed:
 
 You can install dependencies with:
 
+## License
+
+This project is licensed under the MIT License.
+
 ```bash
 pip install -r requirements.txt
 ```
